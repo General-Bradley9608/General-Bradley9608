@@ -5,16 +5,16 @@
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
 <table>
     <tr>
-        <td><img src="https://img.icons8.com/color/2x/angularjs.png" title="Angular" width="100" alt="Angular.js"></td>
         <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" width="100" alt="React.js"></td>
+        <td><img src="https://img.icons8.com/color/2x/angularjs.png" title="Angular" width="100" alt="Angular.js"></td>
         <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" width="100" alt="Python"></td>
         <td><img src="https://img.icons8.com/color/2x/vue-js.png" title="Vue" width="100" alt="Vue.js"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" title="MySQL" width="100" alt="MySQL"></td>
-        <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" title="Rust" width="100" alt="Rust"></td>
         <td><img src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js" width="100" alt="node.js"></td>
         <td><img src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap" width="100" alt="Bootstrap"></td>
         <td><img src="https://img.icons8.com/color/2x/sass.png" title="Sass" width="100" alt="Sass"></td>
         <td><img src="https://img.icons8.com/nolan/2x/javascript.png" title="JavaScript" width="100" alt="JavaScript"></td>
+        <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" title="Rust" width="100" alt="Rust"></td>
     </tr>
     <tr>
         <td><img src="https://img.icons8.com/color/2x/typescript.png" title="TypeScript" width="100" alt="TypeScript"></td>
@@ -44,9 +44,8 @@
 
 # 💫 About Me
 
-- 🔭 I’m a Senior Full Stack Software Engineer.
+- 🔭 I’m a Senior Front End Engineer.
 - 👍 I have rich experience of web development.
-- 🌱 I’m currently diving into Blockchain
 
 # 💻 My favorite tools and technologies
 
@@ -178,4 +177,4 @@
 ### Github Status
 ![Magni's Github Status](https://denvercoder1-github-readme-stats.vercel.app/api/?username=bcExpt1123&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
 
-![](https://readme-typing-svg.herokuapp.com/?lines=💥FullStack%20Developer💥;3D%20Project%20Developer;✨Blockchain%20Developer✨;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨React%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
+![](https://readme-typing-svg.herokuapp.com/?lines=💥FrontEnd%20Engineer💥;✨Frontend%20Expert✨;✨React%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
