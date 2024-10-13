@@ -18,25 +18,17 @@
     </tr>
     <tr>
         <td><img src="https://img.icons8.com/color/2x/typescript.png" title="TypeScript" width="100" alt="TypeScript"></td>
-        <td><img src="https://img.icons8.com/color/2x/tensorflow.png" title="TensorFlow" width="100" alt="TensorFlow"></td>
         <td><img src="https://img.icons8.com/color/2x/html-5.png" title="HTML5" width="100" alt="HTML5"></td>
         <td><img src="https://img.icons8.com/color/2x/css3.png" title="CSS3" width="100" alt="CSS3"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" title="Laravel" width="100" alt="Laravel"></td>
         <td><img src="https://img.icons8.com/color/2x/django.png" title="Django" width="100" alt="Django"></td>
         <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="Graphql" width="100" alt="Graphql"></td>
-        <td><img src="https://img.icons8.com/color/2x/php.png" title="PHP" width="100" alt="PHP"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" title="MongoDB" width="100" alt="MongoDB"></td>
         <td><img src="https://img.icons8.com/color/2x/postgreesql.png" title="PostgreSQL" width="100" alt="PostgreSQL"></td>
     </tr>
     <tr>
-        <td><img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++" width="100" alt="C++"></td>
         <td><img src="https://img.icons8.com/nolan/2x/github.png" title="Git" width="100" alt="Git"></td>
         <td><img src="https://www.theconsolelogs.com/react/redux.svg" title="Redux" width="100" alt="Redux"></td>
-        <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" width="100" alt="Linux"></td>
-        <td><img src="https://img.icons8.com/ios/452/solidity.png" title="Solidity" width="100" alt="Solidity"></td>
         <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" width="100" alt="Docker"></td>
-        <td><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" title="Dart" width="100" alt="Dart"></td>
-        <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="Flutter" width="100" alt="Flutter"></td>
         <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="GitLab" width="100" alt="GitLab"></td>
         <td><img src="https://img.icons8.com/color/452/amazon-web-services.png" title="Amazon Web Service" width="100" alt="Amazon Web Service"></td>
     </tr>
@@ -66,10 +58,6 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
       <br>Webpack
     </td>
@@ -85,10 +73,6 @@
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
@@ -98,10 +82,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>Github
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -141,18 +121,12 @@
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-          <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+          
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
+              
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
       <br>Vue
